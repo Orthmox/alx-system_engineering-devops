@@ -11,3 +11,4 @@ This directory contains scripts that alters the permissions of files.
 9-John_Doe script sets mode of the file hello to -rwxr-x-wx
 10-mirror_permissions script sets the mode of the file hello the same as olleh's mode
 11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users, excluding regular files
+12-directory_permissions script creates a directory called my_dir with permissions 751 in the working directory
