@@ -16,3 +16,4 @@ This directory contains scripts that alters the permissions of files.
 100-change_owner_and_group script changes the owner to vincent and the group owner to staff for all files and directories in the working directory
 101-symbolic_link_permissions script changes the owner and the group owner of the symbolic link  _hello to vincent and staff respectively
 102-if_only script changes the owner of the file hello to betty only if it is owned by the user guillaume
+103-Star_Wars script plays the StarWars IV episode in the terminal
