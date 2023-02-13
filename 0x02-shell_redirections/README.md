@@ -13,3 +13,4 @@ This directory contains scripts for shell i/o, redirection and filters
 12-newest_files script displays the 10 newest files in the current directory
 13-unique script takes a list of words as input and prints only words that appear exactly only once
 14-findthatword script displays lines that containing the pattern root in the file /etc/passwd
+15-countthatword script prints the number of lines that contain the pattern bin in the file /etc/passwd
