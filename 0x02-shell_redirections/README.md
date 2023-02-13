@@ -9,3 +9,4 @@ This directory contains scripts for shell i/o, redirection and filters
 8-cwd_state script redirects the output of ls -la to the file ls_cwd_content
 9-duplicate_last_line script duplicates the last of the file iacta
 10-no_more_js script removes files with .js extension from the current directory and its subdirectories
+11-directories script prints the number of directories in the current directory
