@@ -16,3 +16,5 @@ This directory contains scripts for shell i/o, redirection and filters
 15-countthatword script prints the number of lines that contain the pattern bin in the file /etc/passwd
 16-whatsnext script prints lines containgling the pattern root and 3 lines after them in the file /etc/passwd
 17-hidethisword script prints lines that do not contain the pattern bin in the file /etc/passwd
+18-letteronly script prints lines begining with letters in the file /etc/ssh/sshd_config
+19-AZ script replaces all characters A and c from input to Z and e respectively
