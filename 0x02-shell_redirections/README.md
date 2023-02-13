@@ -18,3 +18,4 @@ This directory contains scripts for shell i/o, redirection and filters
 17-hidethisword script prints lines that do not contain the pattern bin in the file /etc/passwd
 18-letteronly script prints lines begining with letters in the file /etc/ssh/sshd_config
 19-AZ script replaces all characters A and c from input to Z and e respectively
+20-hiago removes all letters c and C from input
