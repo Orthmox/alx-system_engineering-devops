@@ -10,3 +10,6 @@ This directory contains scripts for shell i/o, redirection and filters
 9-duplicate_last_line script duplicates the last of the file iacta
 10-no_more_js script removes files with .js extension from the current directory and its subdirectories
 11-directories script prints the number of directories in the current directory
+12-newest_files script displays the 10 newest files in the current directory
+13-unique script takes a list of words as input and prints only words that appear exactly only once
+14-findthatword script displays lines that containing the pattern root in the file /etc/passwd
