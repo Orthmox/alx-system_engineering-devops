@@ -1,2 +1,2 @@
 #!/bin/bash
-hexString = $DECIMAL .toString(16)
+echo $(($(DECIMAL)*1))
