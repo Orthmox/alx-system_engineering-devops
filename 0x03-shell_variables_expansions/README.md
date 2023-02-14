@@ -7,3 +7,4 @@ This directory contains scripts on shell variables and expansion tasks
 5-local_variables script lists all local variables, environment variable, and functions
 6-create_local_variable script creates the variable BEST with value School
 7-create_global_variable script creates a global variable BEST with value School
+8-true_knowledge script adds 128 to the value of environment variable TRUEKNOWLEDGE, followed by a new line
