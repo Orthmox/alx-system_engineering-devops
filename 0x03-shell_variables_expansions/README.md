@@ -5,3 +5,4 @@ This directory contains scripts on shell variables and expansion tasks
 3-paths script prints number of directories in PATH
 4-global_variables script lists environment variables
 5-local_variables script lists all local variables, environment variable, and functions
+6-create_local_variable script creates the variable BEST with value School
