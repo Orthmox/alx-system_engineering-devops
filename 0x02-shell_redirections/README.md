@@ -22,3 +22,4 @@ This directory contains scripts for shell i/o, redirection and filters
 21-reverse script reverses the input
 22-users_and_homes script displays all users and their home directories, sorted by users
 100-empty_casks script finds all empty files and directories in the current directory and its subdirectories
+101-gifs script lists all files with the extension '.gif' in the current directory and subdirectories
