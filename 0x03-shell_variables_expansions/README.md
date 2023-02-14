@@ -10,3 +10,4 @@ This directory contains scripts on shell variables and expansion tasks
 8-true_knowledge script adds 128 to the value of environment variable TRUEKNOWLEDGE, followed by a new line
 9-divide_and_rule script prints the result of POWER divided by DIVIDE
 10-love_exponent_breath script prints the result of BREATH to the power LOVE
+ 11-binary_to_decimal script converts a binary number to decimal
