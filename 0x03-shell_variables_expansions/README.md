@@ -12,3 +12,4 @@ This directory contains scripts on shell variables and expansion tasks
 10-love_exponent_breath script prints the result of BREATH to the power LOVE
  11-binary_to_decimal script converts a binary number to decimal
 12-combinations script prints all possible combinations of a to z except oo
+13-print_float script prints a number with two decimal places
