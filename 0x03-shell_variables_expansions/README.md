@@ -13,3 +13,7 @@ This directory contains scripts on shell variables and expansion tasks
  11-binary_to_decimal script converts a binary number to decimal
 12-combinations script prints all possible combinations of a to z except oo
 13-print_float script prints a number with two decimal places
+100-decimal_to_hexadecimal converts a number from base 10 to base 16
+101-rot13 script encodes and decodes text using the rot13 encryption
+102-odd script prints every other line from the input, starting from the first line
+103-water_and_stir script adds the two numbers stored in the environment variables WATER and STIR and prints the results in base bestchol
